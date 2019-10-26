@@ -1,0 +1,22 @@
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.DataAccess.deps.json
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.DataAccess.dll
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.AssemblyInfo.cs
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.csprojAssemblyReference.cache
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.DataAccess.pdb
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.Domain.pdb
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.csproj.CopyComplete
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.dll
+C:\Users\Petar\source\repos\mobile\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.DataAccess.deps.json
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.DataAccess.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.DataAccess.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\bin\Debug\netcoreapp2.2\mobile.Domain.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.csprojAssemblyReference.cache
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.AssemblyInfo.cs
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.csproj.CopyComplete
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.DataAccess\obj\Debug\netcoreapp2.2\mobile.DataAccess.pdb

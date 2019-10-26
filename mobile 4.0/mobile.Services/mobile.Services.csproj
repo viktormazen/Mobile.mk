@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\mobile.DataAccess\mobile.DataAccess.csproj" />
+    <ProjectReference Include="..\mobile.Domain\mobile.Domain.csproj" />
+    <ProjectReference Include="..\mobile.WebModels\mobile.WebModels.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,145 @@
+﻿@model mobile.WebModels.VehicleCreateViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@{
+    bool IsAdmin = User.IsInRole("admin");
+    bool isUser = User.IsInRole("customer");
+}
+
+
+    <div class="container jumbotron">
+        <h1>Add New Vehicle</h1>
+        <h4>Insert Required Data</h4>
+        <hr />
+        <div class="row">
+            <div class="col-5">
+                <form enctype="multipart/form-data" asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Make" class="control-label"></label>
+                        <input asp-for="Make" class="form-control" />
+                        <span asp-validation-for="Make" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Model" class="control-label"></label>
+                        <input asp-for="Model" class="form-control" />
+                        <span asp-validation-for="Model" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Category" class="control-label"></label>
+                        <select asp-for="Category" class="form-control">
+                            <option selected>Insert Category</option>
+                            <option value="0">Motorcycle</option>
+                            <option value="1">Car</option>
+                            <option value="2">Van</option>
+                            <option value="3">Truck</option>
+                        </select>
+                        <span asp-validation-for="Category" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Year" class="control-label"></label>
+                        <input asp-for="Year" class="form-control" />
+                        <span asp-validation-for="Year" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Fueltype" class="control-label"></label>
+                        <select asp-for="Fueltype" class="form-control">
+                            <option selected>Insert Fuel Type</option>
+                            <option value="0">Diesel</option>
+                            <option value="1">Petrol</option>
+                            <option value="2">Gas</option>
+                            <option value="3">Hybryd</option>
+                            <option value="4">Electric</option>
+                        </select>
+                        <span asp-validation-for="Fueltype" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CubicCapacity" class="control-label"></label>
+                        <input asp-for="CubicCapacity" class="form-control" />
+                        <span asp-validation-for="CubicCapacity" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Power" class="control-label"></label>
+                        <input asp-for="Power" class="form-control" />
+                        <span asp-validation-for="Power" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="GearBox" class="control-label"></label>
+                        <select asp-for="GearBox" class="form-control">
+                            <option selected>Gear Box Type</option>
+                            <option value="0">Manual</option>
+                            <option value="1">Automatic</option>
+                        </select>
+                        <span asp-validation-for="GearBox" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Mileage" class="control-label"></label>
+                        <input asp-for="Mileage" class="form-control" />
+                        <span asp-validation-for="Mileage" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Price" class="control-label"></label>
+                        <input asp-for="Price" class="form-control" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Location" class="control-label"></label>
+                        <input asp-for="Location" class="form-control" />
+                        <span asp-validation-for="Location" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="VehicleDescription" class="control-label"></label>
+                        <input asp-for="VehicleDescription" class="form-control" />
+                        <span asp-validation-for="VehicleDescription" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Images" class="control-label"></label>
+                        <div class="custom-file">
+                            <input asp-for="Images" multiple class="form-control custom-file-input" />
+                            <label class="custom-file-label">Choose Images...</label>
+                        </div>
+                    </div>
+
+                    @*Add image*@
+                    @*<div class="form-group">
+                        <label asp-for="Photo" class="control-label"></label>
+                        <div class="custom-file">
+                            <input asp-for="Photo" class="form-control custom-file-input" />
+                            <label class="custom-file-label">Choose File...</label>
+                        </div>
+                        
+                    </div>*@
+                    @*Add image*@
+
+
+
+                    <div class="form-group float-right">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+
+
+                    @section Scripts
+                    { 
+                        <script>
+                            $(document).ready(function () {
+                                $('.custom-file-input').on("change", function () {
+                                    var fileName = $(this).val().split("\\").pop();
+                                    $(this).next('.custom-file-label').html(fileName);
+                                });
+                            });
+                        </script>
+                    }
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div>
+    <a asp-action="Index">Back to List</a>
+    </div>

@@ -1,0 +1,14 @@
+C:\Users\Petar\source\repos\mobile\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.deps.json
+C:\Users\Petar\source\repos\mobile\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Petar\source\repos\mobile\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.pdb
+C:\Users\Petar\source\repos\mobile\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\mobile\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.AssemblyInfo.cs
+C:\Users\Petar\source\repos\mobile\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Petar\source\repos\mobile\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.deps.json
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.AssemblyInfoInputs.cache
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.AssemblyInfo.cs
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.pdb
