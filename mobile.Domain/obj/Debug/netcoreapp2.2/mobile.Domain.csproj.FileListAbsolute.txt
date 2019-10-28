@@ -12,3 +12,10 @@ C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\obj\Debug\netcoreapp2.2\m
 C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.AssemblyInfo.cs
 C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.dll
 C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.deps.json
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.Domain\bin\Debug\netcoreapp2.2\mobile.Domain.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.AssemblyInfoInputs.cache
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.AssemblyInfo.cs
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.Domain\obj\Debug\netcoreapp2.2\mobile.Domain.pdb

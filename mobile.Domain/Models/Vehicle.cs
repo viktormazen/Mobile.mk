@@ -36,7 +36,5 @@ namespace mobile.Domain.Models
         public string UserId { get; set; }
         public virtual User User { get; set; }
         public virtual IEnumerable<VehicleImage> Images { get; set; }
-
-        //public string PhotoPath { get; set; }
     }
 }

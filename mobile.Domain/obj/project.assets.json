@@ -2123,11 +2123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj",
       "projectName": "mobile.Domain",
-      "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj",
+      "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj",
       "packagesPath": "C:\\Users\\Mazen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

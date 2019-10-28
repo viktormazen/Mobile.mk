@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.DataAccess\\mobile.DataAccess.csproj": {}
+    "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.DataAccess\\mobile.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.DataAccess\\mobile.DataAccess.csproj": {
+    "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.DataAccess\\mobile.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.DataAccess\\mobile.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.DataAccess\\mobile.DataAccess.csproj",
         "projectName": "mobile.DataAccess",
-        "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.DataAccess\\mobile.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.DataAccess\\mobile.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Mazen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj"
+              "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj": {
+    "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj",
         "projectName": "mobile.Domain",
-        "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj",
+        "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj",
         "packagesPath": "C:\\Users\\Mazen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

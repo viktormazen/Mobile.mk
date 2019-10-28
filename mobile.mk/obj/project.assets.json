@@ -13108,11 +13108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.mk\\mobile.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.mk\\mobile.WebApp.csproj",
       "projectName": "mobile.WebApp",
-      "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.mk\\mobile.WebApp.csproj",
+      "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.mk\\mobile.WebApp.csproj",
       "packagesPath": "C:\\Users\\Mazen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.mk\\obj\\",
+      "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.mk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13131,11 +13131,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.DataAccess\\mobile.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.DataAccess\\mobile.DataAccess.csproj"
+            "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.DataAccess\\mobile.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.DataAccess\\mobile.DataAccess.csproj"
             },
-            "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Services\\mobile.Services.csproj": {
-              "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Services\\mobile.Services.csproj"
+            "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Services\\mobile.Services.csproj": {
+              "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Services\\mobile.Services.csproj"
             }
           }
         }

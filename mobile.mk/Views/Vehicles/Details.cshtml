@@ -92,14 +92,6 @@
             </dl>
         </div>
         <div>
-            @*@if (User.Identity.IsAuthenticated)
-            {
-                @if (User.IsInRole("customer"))
-                {
-                    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
-                }
-            }*@
-
             <a asp-action="Index">Back to List</a>
         </div>
     </div>

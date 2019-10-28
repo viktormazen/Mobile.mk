@@ -2141,11 +2141,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.WebModels\\mobile.WebModels.csproj",
+      "projectUniqueName": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.WebModels\\mobile.WebModels.csproj",
       "projectName": "mobile.WebModels",
-      "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.WebModels\\mobile.WebModels.csproj",
+      "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.WebModels\\mobile.WebModels.csproj",
       "packagesPath": "C:\\Users\\Mazen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.WebModels\\obj\\",
+      "outputPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.WebModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2164,8 +2164,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj": {
-              "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.0\\mobile.Domain\\mobile.Domain.csproj"
+            "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj": {
+              "projectPath": "C:\\Users\\Mazen\\Desktop\\mobile\\mobile 4.1\\mobile.Domain\\mobile.Domain.csproj"
             }
           }
         }

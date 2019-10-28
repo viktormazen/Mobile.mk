@@ -20,3 +20,14 @@ C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.WebModels\obj\Debug\netcoreapp2.
 C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.csproj.CopyComplete
 C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.dll
 C:\Users\Mazen\Desktop\mobile\mobile 4.0\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\bin\Debug\netcoreapp2.2\mobile.WebModels.deps.json
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\bin\Debug\netcoreapp2.2\mobile.WebModels.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\bin\Debug\netcoreapp2.2\mobile.WebModels.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\bin\Debug\netcoreapp2.2\mobile.Domain.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\bin\Debug\netcoreapp2.2\mobile.Domain.pdb
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.csprojAssemblyReference.cache
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.AssemblyInfoInputs.cache
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.AssemblyInfo.cs
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.csproj.CopyComplete
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.dll
+C:\Users\Mazen\Desktop\mobile\mobile 4.1\mobile.WebModels\obj\Debug\netcoreapp2.2\mobile.WebModels.pdb
