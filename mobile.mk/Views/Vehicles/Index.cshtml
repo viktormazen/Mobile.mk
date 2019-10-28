@@ -1,0 +1,93 @@
+﻿@model IEnumerable<mobile.WebModels.VehicleViewModel>
+
+@{ 
+    if (ViewBag.RenderActions == null)
+    {
+        ViewBag.RenderActions = false;
+    }
+
+    bool test = User.IsInRole("customer");
+    bool test2 = User.Identity.IsAuthenticated;
+}
+
+<br />
+    <div class="container jumbotron">
+        <div class="row p-2">
+            <div class="col-4">
+                <h1>Shop new & used cars, compare models, sell your car & more at mobile.mk</h1>
+                <br />
+                <form action="/Vehicles" method="get">
+
+                    <br />
+                    <div class="form-check-inline">
+                        <h4>Make</h4>   <input class="form-control-sm p-1" id="searchBy" name="searchBy" type="radio" value="Make" checked="checked">
+                    </div>
+                    <div class="form-check-inline">
+                        <h4>Model</h4>   <input class="form-control-sm p-1" id="searchBy" name="searchBy" type="radio" value="Model">
+                    </div>
+                    
+                    <input class="form-control" id="search" name="search" type="text" value="" placeholder="Please Insert Car Make or Model">
+                    <br />
+                    <button type="submit" value="Search" class="btn btn-warning"><h5>Search</h5></button>
+
+                </form>
+            </div>
+            <div class="col-5">
+                <img src="https://image.cnbcfm.com/api/v1/image/105451982-1536942698662gettyimages-503375934.jpeg?v=1563289233&w=678&h=381" alt="cars" />
+            </div>
+        </div>
+    </div>
+
+
+    <br />
+
+
+
+    <div class="container p-4">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+               
+                var images = item.Images.ToList();
+                string firstImage;
+                if (images.FirstOrDefault() == null)
+                {
+                    firstImage = "";
+                }
+                else
+                {
+                    firstImage = images.FirstOrDefault().Image;
+                }
+                string imgSrc = $"data:image/jpeg;base64, {firstImage}";
+
+                <div class="card col-4 p-2">
+                    <img src="@imgSrc" width="345" height="250" />
+                   
+                    <div class="card-body">
+                        <h5 class="card-title"><b>@item.Make @item.Model @item.Year</b></h5>
+                    </div>
+                    <ul class="list-group">
+
+
+
+                        <li class="list-group-item"><b>Fuel Type: </b>@item.Fueltype</li>
+                        <li class="list-group-item"><b>Cubic Capacity: </b>@item.CubicCapacity</li>
+                        <li class="list-group-item"><b>Power: </b>@item.Power</li>
+                        <li class="list-group-item"><b>Location: </b>@item.Location</li>
+                        <li class="list-group-item"><b>Description: </b><i>@item.VehicleDescription</i></li>
+                        <li class="list-group-item "><h5><b>Price: @item.Price Eur</b></h5></li>
+                    </ul>
+
+                    <div class="card-body">
+                        @if (ViewBag.RenderActions && User.Identity.IsAuthenticated && User.IsInRole("customer"))
+                        {
+                            <a class="card-link btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            <a class="card-link btn btn-primary" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        }
+                        <a class="card-link btn btn-warning" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
